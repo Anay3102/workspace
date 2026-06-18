@@ -4,3 +4,6 @@ print("Hello,", name)
 name = input("Enter your Email: ")
 print("submit,", email)
 
+phone no = input("Enter your ph.no: ")
+print("submit,", phone no)
+
